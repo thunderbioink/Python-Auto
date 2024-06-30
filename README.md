@@ -31,4 +31,4 @@ pip install -r requirements.txt
 
 ## YouTube Tutorial to Follow:
 This is the video that helped me learn how to implement this tool. Very easy to follow.
-[Watch the video on YouTube](https://www.youtube.com/watch?v=H8Ars15wGRM](https://www.youtube.com/watch?v=H8Ars15wGRM)
+[!Watch the video on YouTube](https://www.youtube.com/watch?v=H8Ars15wGRM](https://www.youtube.com/watch?v=H8Ars15wGRM)
